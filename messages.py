@@ -35,13 +35,13 @@ MESSAGES = {
         "Tauro es práctico y decidido.",
         "Tauro es dedicado y estable.",
         "Tauro es amable y cariñoso.",
-        "Tauro es perseverante y fuerte."
+        "Tauro es confiable y paciente."
     ],
     "Géminis": [
         "Géminis es adaptable y curioso.",
         "Géminis es comunicativo y ingenioso.",
         "Géminis es sociable y versátil.",
-        "Géminis es inteligente y divertido.",
+        "Géminis brilla por su curiosidad e inteligencia",
         "Géminis es inquieto y expresivo."
     ],
     "Cáncer": [
