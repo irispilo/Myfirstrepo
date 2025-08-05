@@ -50,6 +50,7 @@ MESSAGES = {
         "Cáncer es amable y leal.",
         "Cáncer es sensible y compasivo.",
         "Cáncer es imaginativo y afectuoso."
+        "Tu empatía es un regalo para el mundo"
     ],
     "Leo": [
         "Leo es orgulloso y generoso.",
