@@ -1,6 +1,3 @@
-# zodiac.py
-
-# Lista de signos con sus rangos (mes y día)
 ZODIAC_SIGNS = [
     ("Capricornio",  (12, 22), (1, 19)),
     ("Acuario",      (1, 20),  (2, 18)),
