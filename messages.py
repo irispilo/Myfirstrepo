@@ -1,4 +1,3 @@
-# messages.py
 
 import random
 
